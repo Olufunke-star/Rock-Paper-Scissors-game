@@ -48,8 +48,9 @@ while True:
 
     elif user == "P" :
       if computer == "S":
-         print( f'user {user}: computer {computer}')
+         
          print ("Computer won! Scissors beats Paper")
+         print ("Game over")
          
       if computer =="R":
         
